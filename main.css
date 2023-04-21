@@ -7,3 +7,42 @@ font-family: 'Courier New', Courier, monospace;
 body{
     background-color: rgb(192, 244, 192);
 }
+
+
+#B0{
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#B1{
+    color: black;
+    font-size: 18px;
+}
+#B2{
+    color: black;
+    font-size: 18px;
+}
+#B3{
+    color: black;
+    font-size: 18px;
+}
+#B4{
+    color: Black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#B5{
+    color: Black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body
+{
+    background-color: lightblue;
+}
+
